@@ -1,11 +1,10 @@
-package com.me.design.separate_changes.entity;
+package com.me.design.strategy.entity;
 
-import com.me.design.separate_changes.Duck;
-import com.me.design.separate_changes.FlyBehavior;
-import com.me.design.separate_changes.QuackBehavior;
-import com.me.design.separate_changes.behavior.FlyingNoWay;
-import com.me.design.separate_changes.behavior.FlyingWithWings;
-import com.me.design.separate_changes.behavior.Speak;
+import com.me.design.strategy.Duck;
+import com.me.design.strategy.FlyBehavior;
+import com.me.design.strategy.QuackBehavior;
+import com.me.design.strategy.behavior.FlyingWithWings;
+import com.me.design.strategy.behavior.Speak;
 
 /**
  * @author sondv

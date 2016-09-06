@@ -1,6 +1,6 @@
-package com.me.design.separate_changes.behavior;
+package com.me.design.strategy.behavior;
 
-import com.me.design.separate_changes.FlyBehavior;
+import com.me.design.strategy.FlyBehavior;
 
 /**
  * @author sondv

@@ -1,4 +1,4 @@
-package com.me.design.separate_changes;
+package com.me.design.strategy;
 
 /**
  * @author sondv
